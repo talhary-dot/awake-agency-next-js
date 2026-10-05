@@ -8,7 +8,7 @@ Built for creative agencies, design studios, software consultancies, and freelan
 
 ## ✨ Features
 
-- **⚡ Modern Tech Stack**: React 19, Vite 8, TypeScript, Tailwind CSS v4, and Oxlint.
+- **⚡ Modern Tech Stack**: React 19, Vite 8, TypeScript 7, Tailwind CSS v4, and Oxlint.
 - **🎨 Dark & Light Theme**: Built-in instant theme switcher with persistent preference and CSS variable color tokens.
 - **🪄 Fluid Animations**: Staggered text reveals, smooth accordion expansions, count-up stats, and infinite brand marquees powered by `motion` (Framer Motion).
 - **📱 Fully Responsive**: Thoughtfully engineered for mobile, tablet, and desktop with an animated mobile drawer navigation.
